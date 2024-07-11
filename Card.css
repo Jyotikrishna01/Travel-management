@@ -1,0 +1,42 @@
+/* card: {
+    display: 'flex',
+    border: '1px solid #000',
+    padding: '20px',
+    width: '600px',
+    justifyContent: 'center', 
+    borderRadius: '10px',
+    alignitems: 'center'
+  },
+  
+  imagePlaceholder: {
+    width: '150px',
+    height: '150px',
+    backgroundColor: '#ccc',
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+    info: {
+    flex: 1,
+    marginLeft: '20px',
+  },
+  icons: {
+    display: 'flex',
+    justifyContent: 'space-between',
+    width: '150px',
+  },
+  icon: {
+    border: '1px solid #000',
+    padding: '10px',
+  },
+  star: {
+    color: 'gold',
+  },
+  pricing: {
+    textAlign: 'right',
+  },
+  button: {
+    display: 'block',
+    marginTop: '10px',
+    padding: '10px 20px',
+     */

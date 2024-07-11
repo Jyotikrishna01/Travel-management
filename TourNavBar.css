@@ -1,0 +1,28 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #1b2430;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.06);
+}
+
+#navbar{
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+}
+
+#navbar li{
+    list-style: none;
+    margin-left: 65px;
+    margin-top: 30px;
+    position: relative;
+    color:#fff;
+    transition: 0.3s ease-in-out;
+}
+#navbar li a:hover,
+#navbar li a.active{
+    color: #17cf97;
+}
